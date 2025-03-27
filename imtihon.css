@@ -1,0 +1,66 @@
+h1 {
+    background-color: #b4b4ec;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 35px;
+    color: black;
+}
+.sher {
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+.q {
+    background-color: yellow;
+}
+i {
+    color: rgb(148, 1, 1);
+} 
+.r {
+    color: green;
+
+}
+.t {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.radio {
+    width: 1600px;
+    background-color: black;
+    height: 514px;
+    margin-left: 50px;
+    text-align: center;
+    border-radius: 15px;
+}
+.Fil {
+    color: green;
+    font-size: 24px;
+}
+.w {
+    width: 750px;
+    height: 55px;
+}
+.Arslon {
+    color: green;
+    font-size: 24px;
+}
+button {
+    background-color: #b4b4ec;
+    color: white;
+    width: 320px;
+    height: 35px;
+    border: none;
+}
+.oo {
+    border: 2px solid rgb(72, 72, 72);
+    width: 1200px; height: 50px;
+    text-align: center;
+    margin: auto;
+}
+.malumot {
+    background-color: yellow;
+    color: green;
+    font-size: 24px;
+    text-align: center ;
+}
